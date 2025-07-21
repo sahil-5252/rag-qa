@@ -1,0 +1,14 @@
+os
+numpy
+torch==2.7.1
+transformers
+python-docx
+python-pptx
+PyPDF2
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+langchain-huggingface
+nltk
