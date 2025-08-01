@@ -35,7 +35,7 @@ print("Context:", response["context"])
 ```
 ### Example output
 ```
-Answer: Machine Learning is a field of AI that focuses on creating systems that learn from data.
-Context:
-- ... relevant supporting sentences from your document ...
+Answer: a field of science
+Relevant Context:
+- Machine learning is a field of science that utilizes data and algorithms to train computers.
 ```
